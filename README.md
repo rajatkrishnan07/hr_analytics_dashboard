@@ -1,6 +1,3 @@
-![image](https://github.com/rajatkrishnan07/hr_analytics_dashboard/assets/101494311/787b32b9-7ecc-48f3-939e-93de69e195f2)# hr_analytics_dashboard
-
-
 # HR Analytics Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/7fedf361-48b3-4375-917d-f546143680aa/ReportSection?experience=power-bi
